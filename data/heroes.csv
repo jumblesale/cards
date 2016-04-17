@@ -1,0 +1,7 @@
+name,description,ability,dice,weapon,reach,damage,armour
+manhunter,,whenever the scout performs an action (including one in combat) she can immediately move,3,bow,ranged,2,1
+bulwark,,gain one dice from any attack which does not deal damage (is fully absorbed by armour),4,gladius,melee,3,4
+sorcerer,,at the end of the expedition redraw all spell cards,2,stave,ranged,1,1
+berserker,,sacrifice one dice to gain one damage,5,axe,melee,4,2
+cleric,,sacrifice one dice to heal two dice of another character,4,mace,melee,3,3
+haruspex,,spend one dice to cast any spell,3,profane icon,any,1,1

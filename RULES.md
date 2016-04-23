@@ -18,6 +18,16 @@ The <<GM>> takes three tiles from the tile deck, an entrance tile, and their vil
 * traps
 * doors
 
+# TILES
+
+## <<GM>> tiles
+
+* Laboratory - when this tile is revealed, place two weapon modifier cards on the tile. The <<GM>> may draw a creature from the eldritch deck and place it on this tile.
+* Armoury - when this tile is revealed, draw two cards from the weapon deck and place it on this tile
+* Crypt - Whenever this tile is in play, if a hero dies on this tile, draw one new graveyard. When this tile is revealed, place as many tiles as there are marks from the appropriately levelled undead monster deck.
+# Treasury - When this tile is revealed, place three treasure tokens on this tile. This tile is jealously guarded by like a golem or something? Draw tree cards - one is nothing, one is two gold, one is a golem - and place them on the tile?
+# Library - When this tile is revealed, take a spell from the heroes' spell deck and place it on this tile.
+
 # HEROES' TURN
 
 The heroes act in the order determined by the players at the start of the round. During their turn they can move once and perform one action. The hero may perform these in any order (move, action or action, move).

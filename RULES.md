@@ -39,14 +39,24 @@ The heroes act in the order determined by the players at the start of the round.
 
 # COMBAT
 
-Combat occurs whenever the combat phase begins with any monsters within attack range of a hero.
+Combat starts when the combat phase begins with any heroes in the same space as an enemy.
 
-1. what order does it go in?
-1. ranged weapons?
-1. flanking - remove all armour?
+Each hero places their hero card on the table and the <<GM>> places the cards for any monsters involved in the combat facing the hero cards.
 
-In combat the heroes have the option to attack, shuffle, withdraw or use an ability. Whilst engaged in combat, the hero cannot perform any other action and can only leave the tile by using the withdraw action.
+## RANKS
 
-1. *Attack* - The hero roles all dice in their dice pool. If any of the dice are a success (a 5 or a 6), they deal the heroe's weapon's damage to the monster. The <DM> subtracts that many points from the monster's health pool. If the monster has armour, the damage is absorbed by that amount to a minimum of zero damage. For instance, if a barbarian attacks a formian queen with 4 armour and does 8 damage with her axe, the formian takes 4 damage (8 - 4). If her damage were 4, the formian would take 0 damage (4 - 4).
-1. *Withdraw* - The hero escapes combat. They immmediately move one tile away from the monster.
-1. *Use an ability* - There are many combat abilities a hero can acquire on an expedition. Some require certain sacrifices to use, others are sinle-use only and others can be used indefinitely. 
+There are two ranks where cards can be placed: front and rear. A card can only be placed in the rear rank if there is a card in front of it. Characters with melee range can only attack characters in the front rank if they are in the front rank. Characters with ranged attacks can target either rank.
+
+## FIGHTING
+
+Combat resolves in turns. First the heroes act. The player with the leader token goes first. Then the <<GM>> acts, playing the cards in whatever order they choose.
+
+### COMBAT ACTIONS
+
+During a turn, a character can perform a number of actions:
+
+1. ATTACK - to attack an enemy in range, the character rolls their dice pool. They deal their weapon's damage for each success - the armour of the character they are attacking. Damage done to a monster reduces any upgrade points by the amount of damage done. If there are no upgrade points on the monster card, the monster is destroyed and placed face-up on the monster discard pile.
+
+1. SHUFFLE - if there are cards in the same position in both the front and rear ranks, a character can spend thier action switching places with that character.
+
+If there are cards in the front rank with no card directly behind them in the rear rank, the character can spend their turn moving to the rear rank behind that card.
